@@ -1,0 +1,1259 @@
+.body-container10 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.body-body1 {
+  width: 100%;
+  height: 1184px;
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: rgba(255, 255, 255, 1);
+}
+.body-group1 {
+  top: 0px;
+  left: -5px;
+  width: 1196px;
+  height: 107px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.body-body-row-data {
+  top: 0px;
+  left: 0px;
+  width: 1196px;
+  display: flex;
+  padding: 32.5px 665.5px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 246, 87, 0.27000001072883606);
+}
+.body-text100 {
+  top: 34.5px;
+  left: 364px;
+  color: rgba(57, 13, 253, 1);
+  width: 468px;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Staatliches;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text102 {
+  top: 0.5px;
+  left: 567px;
+  color: rgba(0, 0, 0, 1);
+  width: 63px;
+  height: auto;
+  z-index: 1;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Staatliches;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-container11 {
+  top: 137px;
+  left: -369px;
+  width: 1191px;
+  height: 334px;
+  display: flex;
+  padding: 0 690px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-table {
+  width: 524px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+}
+.body-body2 {
+  width: 524px;
+  height: 270px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-row1 {
+  top: 0px;
+  left: 0px;
+  width: 524px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.body-data10 {
+  width: 100px;
+  height: 270px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-text104 {
+  color: var(--dl-color-www.dolekemp96.org-black);
+  width: 70px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.body-text106 {
+  top: 21px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  width: 115px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.body-container12 {
+  top: 42px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container13 {
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-container14 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(11, 10, 10, 0.6700000166893005);
+}
+.body-text108 {
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  font-size: 12px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alike Angular;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-container15 {
+  top: 59px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-mispelled1 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.body-text110 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-text112 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container16 {
+  top: 104px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container17 {
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-container18 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(11, 10, 10, 0.6700000166893005);
+}
+.body-text114 {
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  font-size: 12px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alike Angular;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-container19 {
+  top: 121px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text116 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container20 {
+  top: 137px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text118 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container21 {
+  top: 153px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text120 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container22 {
+  top: 196px;
+  left: -1px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container23 {
+  top: 0px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-container24 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(11, 10, 10, 0.6700000166893005);
+}
+.body-text122 {
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  font-size: 12px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alike Angular;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-datadividergif1 {
+  width: 12px;
+  height: 225px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/external/tq_yqgmdiumu6-qzmb-200w.png");
+}
+.body-data11 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image1 {
+  top: 1px;
+  right: 17px;
+  width: 67px;
+  height: 61px;
+  position: absolute;
+}
+.body-container25 {
+  top: 64.5px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  padding: 0 17.950000762939453px 0 17.940000534057617px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-text124 {
+  left: 12px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 8.4375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.body-container26 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text126 {
+  left: 19px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-text128 {
+  top: 91.5px;
+  left: 14px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 8.4375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.body-data12 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image {
+  top: -2px;
+  right: 10px;
+  width: 70px;
+  height: 66px;
+  position: absolute;
+}
+.body-container27 {
+  top: 64.5px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  padding: 0 17.950000762939453px 0 17.940000534057617px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-text130 {
+  top: 13.5px;
+  left: 9px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 8.4375px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.body-data13 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image3 {
+  top: -9px;
+  left: 7px;
+  width: 85px;
+  height: 85px;
+  position: absolute;
+}
+.body-container28 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text132 {
+  top: -8px;
+  left: 31px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-datadividergif2 {
+  width: 12px;
+  height: 225px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-size: cover;
+  background-image: url("/external/tq_2lzeolunjo-03es-200w.png");
+}
+.body-data14 {
+  width: 100px;
+  height: 270px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-text136 {
+  color: var(--dl-color-www.dolekemp96.org-black);
+  width: 76px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.body-text138 {
+  top: 21px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.body-container29 {
+  top: 42px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text140 {
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container30 {
+  top: 58px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-container31 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(11, 10, 10, 0.6700000166893005);
+}
+.body-text144 {
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  font-size: 12px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alike Angular;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-container32 {
+  top: 72px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-mispelled2 {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.body-text146 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-text148 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container33 {
+  top: 104px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text150 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container34 {
+  top: 120px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container35 {
+  top: 136px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-container36 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-container37 {
+  width: 100px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(11, 10, 10, 0.6700000166893005);
+}
+.body-text152 {
+  color: rgba(255, 255, 255, 1);
+  width: 99px;
+  height: auto;
+  font-size: 12px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alike Angular;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-container38 {
+  top: 150px;
+  left: 0px;
+  width: 100px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text154 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  height: auto;
+  text-align: left;
+  line-height: 16px;
+}
+.body-row2 {
+  top: 112px;
+  left: 106px;
+  width: 312px;
+  display: flex;
+  padding: 0 5px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-data15 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image2 {
+  top: -2px;
+  left: 16px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+.body-container39 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text156 {
+  top: -8px;
+  left: 19px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-data16 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image4 {
+  top: -10px;
+  left: 4px;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+}
+.body-container40 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text160 {
+  top: -8px;
+  left: 18px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-data17 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image5 {
+  top: -2px;
+  left: 16px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+.body-container41 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text164 {
+  left: 15px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-row3 {
+  top: 225px;
+  left: 0px;
+  width: 524px;
+  display: flex;
+  padding: 0 112px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-data18 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container42 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text166 {
+  top: -8px;
+  left: 18px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-image6 {
+  top: 0px;
+  left: 16px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+.body-data19 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-image7 {
+  top: 0px;
+  left: 16px;
+  width: 67px;
+  height: 67px;
+  position: absolute;
+}
+.body-container43 {
+  top: 64.5px;
+  left: 0px;
+  width: 100px;
+  height: 16px;
+  display: flex;
+  padding: 0 17.950000762939453px 0 17.940000534057617px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-text170 {
+  top: 0.5px;
+  left: 26px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 8.4375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.body-container44 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text172 {
+  left: 21px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-text174 {
+  top: 91.5px;
+  left: 18px;
+  color: rgba(0, 0, 0, 1);
+  width: 82px;
+  height: auto;
+  position: absolute;
+  font-size: 8.4375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.body-data20 {
+  gap: -5px;
+  width: 100px;
+  height: 113px;
+  display: flex;
+  padding: 0 0 2px;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container45 {
+  top: 77.5px;
+  left: -6px;
+  width: 100px;
+  display: flex;
+  padding: 0 24.729999542236328px 0 24.719999313354492px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text176 {
+  top: -8px;
+  left: 27px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 16px;
+}
+.body-image8 {
+  top: 0px;
+  left: 16px;
+  width: 70px;
+  height: 67px;
+  position: absolute;
+}
+.body-container46 {
+  top: 474px;
+  left: -5px;
+  width: 1196px;
+  display: flex;
+  padding: 16px 702px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(58, 14, 254, 1);
+}
+.body-text180 {
+  left: 369px;
+  color: rgba(255, 253, 210, 1);
+  width: 468px;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Staatliches;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text182 {
+  color: rgba(255, 255, 255, 1);
+  width: 41px;
+  height: auto;
+  z-index: 1;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container47 {
+  top: 540px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 16px 703.3099975585938px 1px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text183 {
+  top: 13px;
+  left: 362px;
+  color: var(--dl-color-www.dolekemp96.org-navyblue);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: normal;
+}
+.body-container48 {
+  top: 609px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 0 740.719970703125px 0 740.7000122070312px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text185 {
+  left: 385px;
+  color: rgba(0, 0, 238, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8.59375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text186 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: UNDERLINE;
+}
+.body-text187 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: NONE;
+}
+.body-text188 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: UNDERLINE;
+}
+.body-text189 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: NONE;
+}
+.body-text190 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: UNDERLINE;
+}
+.body-text191 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: NONE;
+}
+.body-text192 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: UNDERLINE;
+}
+.body-text193 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: NONE;
+}
+.body-text194 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: UNDERLINE;
+}
+.body-text195 {
+  text-decoration: NONE;
+}
+.body-container49 {
+  top: 625px;
+  left: -5px;
+  width: 1191px;
+  height: 16px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.body-container50 {
+  top: 636px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 0 831.1199951171875px 0 831.1099853515625px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text197 {
+  left: 476px;
+  color: var(--dl-color-www.dolekemp96.org-black);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 16px;
+}
+.body-container51 {
+  top: 647px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 0 846.1199951171875px 0 846.1300048828125px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text199 {
+  left: 490px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8.59375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text200 {
+  color: var(--dl-color-www.dolekemp96.org-black);
+  text-decoration: NONE;
+}
+.body-container52 {
+  top: 658px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 0 827.6199951171875px 0 827.6300048828125px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text202 {
+  left: 472px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8.59375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text203 {
+  color: var(--dl-color-www.dolekemp96.org-black);
+  text-decoration: NONE;
+}
+.body-container53 {
+  top: 669px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 0 810.6599731445312px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text205 {
+  left: 455px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8.4375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text206 {
+  color: var(--dl-color-www.dolekemp96.org-black);
+  text-decoration: NONE;
+}
+.body-container54 {
+  top: 577px;
+  left: -5px;
+  width: 1191px;
+  display: flex;
+  padding: 16px 861.3900146484375px 0;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.body-text208 {
+  top: 16px;
+  left: 506px;
+  color: rgba(0, 0, 238, 1);
+  height: auto;
+  position: absolute;
+  font-size: 8.28125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 16px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.body-text209 {
+  color: var(--dl-color-www.dolekemp96.org-blue);
+  text-decoration: UNDERLINE;
+}
+.body-text210 {
+  text-decoration: NONE;
+}
+.body-text211 {
+  text-decoration: UNDERLINE;
+}
+.body-text212 {
+  text-decoration: NONE;
+}
+.body-text213 {
+  text-decoration: UNDERLINE;
+}
+.body-text214 {
+  text-decoration: NONE;
+}
